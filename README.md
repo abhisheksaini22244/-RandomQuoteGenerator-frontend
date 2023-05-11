@@ -2,7 +2,7 @@
 
 
 link for the project : https://abhisheksaini22244.github.io/-RandomQuoteGenerator-frontend/
-he Build Random Quote Generator project is a beginner-level project that involves creating a web page that displays random quotes to the user when they click a button. The project typically uses HTML, CSS, and JavaScript to create a simple, yet functional application.
+The Random Quote Generator project is a beginner-level project that involves creating a web page that displays random quotes to the user when they click a button. The project typically uses HTML, CSS, and JavaScript to create a simple, yet functional application.
 
 The main idea behind this project is to use JavaScript to randomly select a quote from an array of quotes and display it on the web page. The project also involves creating a button that, when clicked, triggers the JavaScript function to display a new quote.
 
